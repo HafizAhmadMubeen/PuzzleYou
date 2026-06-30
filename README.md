@@ -1,5 +1,6 @@
 PuzzleYou is an interactive mobile puzzle game that turns your world into a playground.By capturing images of your surroundings,
 the app dynamically generates a 4x4 grid of tiles that players must drag and rotate to complete the original image.
+
 🚀 Key Features
 Dynamic Image Capture: Uses the device camera to convert real-time photos into a 4x4 puzzle grid.
 
